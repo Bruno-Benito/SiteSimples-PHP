@@ -63,7 +63,7 @@
         </p>
         <p><b>Unidade:</b> Fatec Taquaritinga</p>
         <p><b>Prof.:</b> Mauricio de Oliveira Dian</p>
-         <p><b>Aluno.:</b> Bruno Benito</p>
+         <p><b>Aluno:</b> Bruno Benito</p>
         
     </div>
     <div class="col-sm">
